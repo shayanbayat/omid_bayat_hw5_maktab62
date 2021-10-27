@@ -1,0 +1,56 @@
+* {
+    background-color: deepskyblue;
+    overflow: auto;
+    text-align: center;
+}
+
+.main {
+    width: 300px;
+    height: 240px;
+    background-color: white;
+    margin: auto;
+    border-radius: 12px;
+    position: relative;
+    margin-top: 10px;
+}
+
+.Log {
+    font: 1.8em sans-serif;
+    color: gray;
+    background-color: white;
+    margin-bottom: 10px;
+}
+
+.form {
+    background-color: white;
+}
+
+.email {
+    background-color: darkgrey;
+    border: white;
+    font: 1rem sans-serif;
+    width: 200px;
+    height: 35px;
+    border-radius: 8px;
+}
+
+.password {
+    background-color: darkgrey;
+    border: white;
+    font: 1rem sans-serif;
+    width: 200px;
+    height: 35px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.click {
+    background-color: dodgerblue;
+    font: 1rem sans-serif;
+    color: white;
+    border: white;
+    width: 200px;
+    height: 35px;
+    margin-top: 10px;
+    border-radius: 5px;
+}

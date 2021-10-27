@@ -1,0 +1,28 @@
+
+
+div {
+    background-color: gray;
+    width: 250px;
+    height: 200px;
+    margin: 8px;
+    padding: 8px;
+}
+
+.left {
+    float: left;
+}
+
+.clearfix {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.main {
+    display: inline-block;
+}
+
+.text {
+    text-align: center;
+    color: white;
+}

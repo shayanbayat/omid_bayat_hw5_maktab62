@@ -1,0 +1,118 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color:greenyellow;
+}
+
+
+.nav {
+    font-size: 18px;
+    margin: 10px;
+    height: 60px;
+    background-color: black;
+}
+
+.test {
+    display: inline-flex;
+    list-style-type: none;
+    clear: both;
+    background-color: black;
+}
+
+.test li a {
+    text-decoration: none;
+    margin-left: 20px;
+    background-color: black;
+    color: whitesmoke;
+}
+
+.test li {
+    margin-top: 20px;
+    background-color: black;
+}
+
+
+
+#one {
+    margin-top: auto;
+}
+
+.one {
+    height: 60px;
+    background-color: blue;
+    width: 300px;
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    position: relative;
+}
+
+.one p {
+    position: absolute;
+    background-color: blue;
+    margin-left: 133px;
+    margin-top: 20.5px;
+    vertical-align: middle;
+}
+
+
+
+.lorem {
+    margin-top: 25px;
+    width: 45%;
+}
+
+.lorem h1 {
+    margin-bottom: 15px;
+}
+
+
+
+.night {
+    height: 117px;
+    background-color: blueviolet;
+    width: 430px;
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    position: relative;
+}
+
+.night p {
+    margin-top: 49px;
+    margin-left: 190px;
+    position: absolute;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+#two {
+    margin-top: auto;
+}
+
+.leftbox {
+    float: left;
+}
+
+.rightbox {
+    float: right;
+}
+
+
+
+.footer {
+    margin: 10px;
+    height: 60px;
+    background-color: yellow;
+    width: 98.7%;
+    float: left;
+    position: relative;
+}
+
+.footer p {
+    position: absolute;
+    background-color: yellow;
+    margin-left: 48%;
+    margin-top: 20px;
+}
